@@ -1,114 +1,108 @@
-<h1 align="center">
-Hi, I'm Mara Villalba
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
 <p align="center">
-Programming Student • Future Systems Engineer • Tech Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mara%20Villalba&fontSize=40&fontColor=ffffff"/>
 </p>
+
+<h1 align="center">Hi 👋 I'm Mara Villalba</h1>
+<h3 align="center">Programming Student | Future Systems Engineer | Tech Explorer</h3>
 
 ---
 
-<img align="right" width="300px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
+# About Me
 
-About Me
+I am a programming student at UTN FRT currently studying:
 
-I'm a programming student from Argentina.
+- Technical Degree in Programming  
+- Systems Engineering  
 
-Currently studying:
+I love technology, building useful projects, and understanding how systems and artificial intelligence work.
 
-- Programming Technician Degree – UTN FRT
-- Systems Engineering – UTN FRT
+I enjoy creating things that people can actually use, solving problems through code and constantly learning new technologies.
 
-I enjoy learning how technology works and building useful projects.
+Interests:
 
-My interests include:
-
-- Artificial Intelligence
+- Software development
 - Web development
-- Databases
-- Entrepreneurship
+- Artificial Intelligence
+- Cybersecurity
+- Digital projects and entrepreneurship
 - Personal growth
+- Video games
 
-Outside of tech I enjoy video games, learning new things and exploring new technologies.
+---
+
+# Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,python,mysql,git,github,vscode"/>
+</p>
 
 ---
 
 # Tech Stack
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,python"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-
-Additional tools:
-
-- MySQL Workbench
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 # Projects
 
-### Transport System Database
+Some projects I have built while learning programming:
 
-Database project including:
+Transport System Database  
+Database system with queries, transactions and triggers.
 
-- SQL queries
-- relational modeling
-- triggers
-- transactions
+Hollow Knight Transport System  
+A creative version of a database project inspired by Hollow Knight.
 
-### Hollow Knight Inspired Transport System
+Study Quiz Web App  
+Interactive quizzes designed to help students study.
 
-Creative version of a transportation system inspired by Hollow Knight.
+Memory Cards Learning App  
+Flashcard-based web application to practice and memorize concepts.
 
-### Study Quiz Websites
-
-Interactive quiz pages designed for studying.
-
-### Memory Cards Study App
-
-Flashcard style web application for learning.
+More projects coming soon.
 
 ---
 
 # Gaming
 
-Outside of programming, I also enjoy gaming.
+Outside programming, I enjoy playing video games and exploring game design ideas.
 
-Games inspire creativity, storytelling and problem solving.
+Games help inspire creativity, storytelling and problem solving.
 
-Types of games I enjoy:
+Platforms:
 
-- Indie games
-- Adventure games
-- Strategy games
-- Cooperative multiplayer games
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
 
-# Currently
+# GitHub Stats
 
-💻 Learning: TypeScript  
-🧠 Studying: Software architecture  
-🎮 Playing: Indie games  
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maravillalba&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maravillalba&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mara.villalba15?igsh=enFmbm1pdzMwZTRu&utm_source=qr)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mara-villalba-222018281?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@maravillalba2?_r=1&_t=ZS-96CAZAgTmXV)
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/21vnpsfpihmonn3bhdbw7weiq?si=DjxgJiYWRG6NWLyZH_za-Q)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-Technology has the power to change lives.  
-I want to build projects that are useful, creative and meaningful.
+Always learning. Always building.
