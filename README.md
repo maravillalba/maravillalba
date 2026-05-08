@@ -98,14 +98,6 @@ Types of games I enjoy:
 
 ---
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maravillalba&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maravillalba&layout=compact&theme=tokyonight)
-
----
-
 # Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mara.villalba15?igsh=enFmbm1pdzMwZTRu&utm_source=qr)
