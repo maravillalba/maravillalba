@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mara</h1>
-<h3 align="center">Programming student from Argentina 🇦🇷</h3>
+<h1 align="center">Hi 👋 I'm Mara</h1>
+<h3 align="center">Programming student from Argentina</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  💻 Programming Student • 🚀 Future Developer • 🎮 Gamer
 </p>
 
 ---
@@ -15,9 +19,9 @@
 - 🚀 I want to build **projects that people can actually use**
 - 🎮 Gamer and curious about how games are built
 
-## 🛠️ Technologies I'm learning
+## 🛠️ Technologies
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,ts,html,css,js,git,github,mysql,vscode"/>
 </p>
 
@@ -43,7 +47,6 @@ Interests:
 
 # Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
