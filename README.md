@@ -1,22 +1,25 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mara%20Villalba&fontSize=40&fontColor=ffffff"/>
-</p>
+<h1 align="center">Hi 👋, I'm Mara</h1>
+<h3 align="center">Programming student from Argentina 🇦🇷</h3>
 
-<h1 align="center">Hi 👋 I'm Mara Villalba</h1>
-<h3 align="center">Programming Student | Future Systems Engineer | Tech Explorer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="200"/>
+</p>
 
 ---
 
-# About Me
+## 👩‍💻 About Me
 
-I am a programming student at UTN FRT currently studying:
+- 🎓 I study **Programming and Systems Engineering at UTN FRT**
+- 💻 I enjoy building **useful and creative software**
+- 🤖 Interested in **Artificial Intelligence and technology**
+- 🚀 I want to build **projects that people can actually use**
+- 🎮 Gamer and curious about how games are built
 
-- Technical Degree in Programming  
-- Systems Engineering  
+## 🛠️ Technologies I'm learning
 
-I love technology, building useful projects, and understanding how systems and artificial intelligence work.
-
-I enjoy creating things that people can actually use, solving problems through code and constantly learning new technologies.
+<p>
+<img src="https://skillicons.dev/icons?i=c,ts,html,css,js,git,github,mysql,vscode"/>
+</p>
 
 Interests:
 
@@ -51,57 +54,36 @@ Interests:
 
 ---
 
-# Projects
+## 🚀 Projects
 
-Some projects I have built while learning programming:
-
-Transport System Database  
-Database system with queries, transactions and triggers.
-
-Hollow Knight Transport System  
-A creative version of a database project inspired by Hollow Knight.
-
-Study Quiz Web App  
-Interactive quizzes designed to help students study.
-
-Memory Cards Learning App  
-Flashcard-based web application to practice and memorize concepts.
-
-More projects coming soon.
+- 🚌 **Transport System** – Database project for managing trips
+- 🎮 **Hollow Knight Transport System** – Fun version inspired by the game
+- 🧠 **Study Quiz Website** – Interactive questions for studying
+- 🃏 **Memory Cards Web App** – Memory game made with web technologies
 
 ---
 
-# Gaming
+## 🎮 Gaming
 
-Outside programming, I enjoy playing video games and exploring game design ideas.
+<p>
+🎮 I enjoy video games and game design ideas  
+⚔️ Favorite style: adventure, exploration and indie games  
+🕹️ Inspired by worlds like Hollow Knight
+</p>
 
-Games help inspire creativity, storytelling and problem solving.
-
-Platforms:
-
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maravillalba&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maravillalba&layout=compact&theme=tokyonight"/>
-
+<p>
+💬 Discord: 7maravilla7  
+🎧 Spotify: maravillana  
+🎮 Steam: maravillana1
 </p>
 
 ---
 
-# Connect With Me
+## 🌐 Connect with me
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<p>
+<a href="https://github.com/maravillalba">GitHub</a>
+</p>
 
 ---
 
