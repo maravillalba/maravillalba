@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I study **Programming and Systems Engineering at UTN FRT**
+- 🎓 I study **Programming and Systems Engineering at UTN-FRT**
 - 💻 I enjoy building **useful and creative software**
 - 🤖 Interested in **Artificial Intelligence and technology**
 - 🚀 I want to build **projects that people can actually use**
