@@ -112,7 +112,3 @@ Types of games I enjoy:
 
 Technology has the power to change lives.  
 I want to build projects that are useful, creative and meaningful.
-
-## Contribution Snake
-
-![snake gif](https://github.com/maravillalba/maravillalba/blob/output/github-contribution-grid-snake.svg)
