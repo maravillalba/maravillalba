@@ -11,7 +11,7 @@ Programming Student • Future Systems Engineer • Tech Explorer
 
 <img align="right" width="300px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
 
-## About Me
+About Me
 
 I'm a programming student from Argentina.
 
