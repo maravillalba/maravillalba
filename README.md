@@ -7,7 +7,7 @@
 🧍 Sobre mí
 
 
-🎓 Estudio Ingeniería en Sistemas en la UTN-FRT
+🎓 Estudio Ingeniería en Sistemas en la UTN-FRT/n
 🛠️ Me gusta construir software útil y creativo
 🤖 Me interesa la Inteligencia Artificial y la tecnología
 🚀 Quiero crear proyectos que la gente realmente use
