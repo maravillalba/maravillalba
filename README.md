@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋 I'm Mara</h1>
-<h3 align="center">Programming student from Argentina 🇦🇷</h3>
+<h1 align="center">Hola 👋 Soy Mara</h1>
+<h3 align="center">Estudiante de programación de Argentina 🇦🇷</h3>
 <p align="center">
-  💻 Programming Student &nbsp;•&nbsp; 🚀 Future Developer &nbsp;•&nbsp; 🎮 Gamer
+  💻 Estudiante &nbsp;•&nbsp; 🚀 Futura Desarrolladora &nbsp;•&nbsp; 🎮 Gamer
 </p>
 
-🧍 About Me
+🧍 Sobre mí
 
 
-🎓 I study Programming and Systems Engineering at UTN-FRT
-🛠️ I enjoy building useful and creative software
-🤖 Interested in Artificial Intelligence and technology
-🚀 I want to build projects that people can actually use
-🎮 Gamer and curious about how games are built
-
-
-
-🌱 Currently Learning
-
-
-⚛️ React & component-based architecture
-🌐 REST APIs and backend integration
-🔐 Cybersecurity fundamentals
+🎓 Estudio Ingeniería en Sistemas en la UTN-FRT
+🛠️ Me gusta construir software útil y creativo
+🤖 Me interesa la Inteligencia Artificial y la tecnología
+🚀 Quiero crear proyectos que la gente realmente use
+🎮 Gamer y curiosa sobre cómo se hacen los juegos
 
 
 
-🛠️ Tech Stack
+🌱 Actualmente aprendiendo
+
+
+⚛️ React y arquitectura basada en componentes
+🌐 APIs REST e integración con backend
+🔐 Fundamentos de ciberseguridad
+
+
+
+🛠️ Tecnologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,32 +37,32 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-📊 GitHub Stats
+📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maravillalba&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maravillalba&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maravillalba&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maravillalba&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maravillalba&theme=tokyonight&hide_border=true&locale=es"/>
 </p>
 
-🚀 Projects
+🚀 Proyectos
 
-ProjectDescriptionTech🚌 Transport SystemDatabase project for managing tripsJava · MySQL🎮 Hollow Knight Transport SystemFun version inspired by the gameJava · MySQL📝 Study Quiz WebsiteInteractive questions for studyingHTML · CSS · JS🃏 Memory Cards Web AppMemory game made with web technologiesHTML · CSS · JS
+ProyectoDescripciónTecnologías🚌 Sistema de TransporteProyecto de base de datos para gestionar viajesJava · MySQL🎮 Hollow Knight Transport SystemVersión divertida inspirada en el juegoJava · MySQL📝 Study Quiz WebsitePreguntas interactivas para estudiarHTML · CSS · JS🃏 Memory Cards Web AppJuego de memoria hecho con tecnologías webHTML · CSS · JS
 
 
-⚠️ Replace the links above with your actual repository URLs.
+⚠️ Reemplazá los links con las URLs reales de tus repositorios.
 
 
 
 
 🎮 Gaming
 
-🎮 I enjoy video games and game design ideas  ⚔️ Favorite style: adventure, exploration and indie games  🍄 Inspired by worlds like Hollow Knight
+🎮 Me gustan los videojuegos y el diseño de juegos  ⚔️ Estilo favorito: aventura, exploración e indie  🍄 Inspirada por mundos como Hollow Knight
 
-Find me on:
+Encontrame en:
 
 
 💬 Discord: 7maravilla7
@@ -71,9 +71,9 @@ Find me on:
 
 
 
-🌐 Connect with me
+🌐 Contacto
 
 Mostrar imagen
 
 
-<p align="center"><em>Always learning. Always building.</em></p>
+<p align="center"><em>Siempre aprendiendo. Siempre construyendo.</em></p>
